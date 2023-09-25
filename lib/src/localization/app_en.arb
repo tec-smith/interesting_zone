@@ -1,6 +1,10 @@
 {
-  "appTitle": "interesting_zone",
+  "appTitle": "Interesting Zone",
   "@appTitle": {
     "description": "The title of the application"
+  },
+  "appDescription": "Random people, places and things! Create a profile and share interests.",
+  "@appDescription": {
+    "description": "The description of the application"
   }
 }

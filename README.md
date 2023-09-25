@@ -1,6 +1,6 @@
 # Interesting Zone
 
-Find random people, places and things! Create your profile, follow others and share your interests.
+Random people, places and things! Create a profile and share interests.
 
 ## Proof of Concept
 
